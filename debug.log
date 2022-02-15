@@ -1,0 +1,6 @@
+[1105/055045.695:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1105/205934.723:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1105/205934.723:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1105/205934.725:ERROR:exception_snapshot_win.cc(99)] thread ID 18200 not found in process
+[1105/205934.725:ERROR:exception_snapshot_win.cc(99)] thread ID 18620 not found in process
+[1105/205934.725:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt. (0xc000010a)
